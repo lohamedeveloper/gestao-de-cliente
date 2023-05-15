@@ -1,0 +1,12 @@
+.idea
+/logs
+/data
+.env
+/vendor
+.env.backup
+.env.production
+.phpunit.result.cache
+/.fleet
+/.idea
+/.vscode
+
